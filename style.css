@@ -17,6 +17,7 @@ body {
 .percentage {
     font-size: 60px;
     color: white;
+    opacity: 1;
 }
 
 .background {
@@ -26,6 +27,6 @@ body {
     top: 0;
     height: 100vh;
     width: 100vw;
-    filter: blur(0px);
+    filter: blur(30px);
     z-index: -1;
 }
